@@ -1,5 +1,7 @@
-# Informative Path Planning using POMCP
-Base repo imported from auv_from_uav. Should conform to the [field-robotics-standard](https://github.com/uscresl/field-robotics-conventions)
+# Adaptive Sampling using POMDPs with Domain-Specific Considerations
+ 
+This code is for the paper G. Salhotra*, C. E. Denniston, D. A. Caron and G. S. Sukhatme, "Adaptive Sampling using POMDPs with Domain-Specific Considerations" IEEE International Conference on Robotics and Automation (ICRA), in press
+
 
 ## Steps
 Prerequisites: pipenv
