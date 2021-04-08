@@ -1,2 +1,0 @@
-2020-09-01 15:58:13,925 - smallab.mike-river-uncle-kitten.checkpoint - INFO - No checkpoints available
-2020-09-01 15:58:13,926 - smallab.mike-river-uncle-kitten - INFO - Begin OrderedDict([('file', 'fn:exp'), ('max_budget', 3000), ('planning_horizon', 100), ('planning_iterations', 500), ('plot', False), ('seed', 3), ('show', False), ('use_heteroskedastic_noise', True), ('use_input_noise', True), ('use_particle', False)])
