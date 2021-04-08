@@ -1,0 +1,2 @@
+2020-09-01 15:58:13,897 - smallab.april-apart-tennis-white.checkpoint - INFO - No checkpoints available
+2020-09-01 15:58:13,898 - smallab.april-apart-tennis-white - INFO - Begin OrderedDict([('file', 'fn:exp'), ('max_budget', 3000), ('planning_horizon', 100), ('planning_iterations', 500), ('plot', False), ('seed', 4), ('show', False), ('use_heteroskedastic_noise', True), ('use_input_noise', False), ('use_particle', False)])

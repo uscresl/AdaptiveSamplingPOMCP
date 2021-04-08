@@ -1,0 +1,2 @@
+2020-09-01 15:58:13,947 - smallab.happy-orange-red-apart.checkpoint - INFO - No checkpoints available
+2020-09-01 15:58:13,951 - smallab.happy-orange-red-apart - INFO - Begin OrderedDict([('file', 'fn:exp'), ('max_budget', 3000), ('planning_horizon', 100), ('planning_iterations', 500), ('plot', False), ('seed', 6), ('show', False), ('use_heteroskedastic_noise', True), ('use_input_noise', True), ('use_particle', False)])

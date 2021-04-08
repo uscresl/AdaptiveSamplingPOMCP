@@ -1,0 +1,35 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+matplotlib = "*"
+numpy = "*"
+scipy = "*"
+sklearn = "*"
+pandas = "*"
+utm = "*"
+cachier ="*"
+func_timeout="*"
+tqdm = "*"
+kdtree = "*"
+gpytorch = "*"
+gpy = "*"
+dill = "*"
+smallab = ">=1.8.2"
+humanhash3 = "*"
+seaborn = "*"
+xarray = "*"
+Pydap = "*"
+requests = "*"
+torch = "*"
+pudb = "*"
+multiprocessing-logging = "*"
+rasterio = "*"
+numba = "*"
+
+[requires]
+python_version = "3.6"
