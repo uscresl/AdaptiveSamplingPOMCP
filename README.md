@@ -11,7 +11,8 @@ Prerequisites: pipenv
 2. `cd /path/to/cloned/repo`
 3. `pipenv install #it will install from Pipfile`
 4. `pipenv shell #enter your new pipenv environment`
-5. `python <script_name.py>`
+5. `python create_cache.py`
+6. `python <script_name.py>`
 
 
 Run the following files to generate experimental results and plot them. Repository does not include the validation environment data so only analytical functions can be recreated.
