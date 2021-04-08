@@ -2,7 +2,7 @@
  
 This code is for the paper G. Salhotra*, C. E. Denniston*, D. A. Caron and G. S. Sukhatme, "Adaptive Sampling using POMDPs with Domain-Specific Considerations" IEEE International Conference on Robotics and Automation (ICRA), in press
 
-* Equal contribution
+*Equal contribution
 
 ## Steps
 Prerequisites: pipenv
